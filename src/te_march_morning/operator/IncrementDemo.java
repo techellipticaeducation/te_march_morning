@@ -2,6 +2,8 @@ package te_march_morning.operator;
 
 public class IncrementDemo {
 	public static void main(String[] args) {
+		
+		
 		// increament 
 		// pre increment - first increase then assign  ++i
 		// post increment - first assign then increase  i++
